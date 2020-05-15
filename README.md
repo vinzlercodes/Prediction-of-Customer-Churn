@@ -4,7 +4,11 @@ The experimental results, proportion of customers that have exited and retained,
 
 Python libraries **Matplotlib and Seaborn** were used for creating the plots. Furthermore, the confusion matrix is calculated along with plotting graphs for the experimental results. Through this research we aim to highlight a model which can be utilized by financial organizations to better track their customer churn patterns.
 
-The method to carry out the codes have been explained in the **Implementation Steps** file.
+**Implementation Steps**
+First lets import the libraries needed for **Loading the Data and the Data Pre-Processing**
+
+ ![](/ANN1.PNG)
+
 
 If you like the work and my methodology please do leave a review and a star.
 
