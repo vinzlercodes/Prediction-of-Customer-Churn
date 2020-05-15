@@ -10,7 +10,7 @@ pd.options.display.max_columns = None
 
 #data preprocessing 
 
-df = pd.read_csv("C:\\Users\\Karyn\\Desktop\\ML\\bank_churn.csv")
+df = pd.read_csv("../input/bank_churn.csv")
 feature_names = ['customer_id', 'credit_score','age','tenure','balance','products_number','credit_card','active_member','estimated_salary']
 X = df[feature_names] #train
 y = df["churn"] #test
