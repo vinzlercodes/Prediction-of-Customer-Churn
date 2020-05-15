@@ -53,4 +53,3 @@ y_pred = classifier.predict(X_test)
 
 print(y_pred)
 print("\n")
-print("confusion matrix")
