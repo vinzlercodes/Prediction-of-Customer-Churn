@@ -18,6 +18,26 @@ We then create our 2 Layered ANN model
 
 ![ANN3](https://user-images.githubusercontent.com/34100245/82070626-a011e200-96f2-11ea-868e-c4ef0d219a24.PNG)
 
+Then its time to Train our model
+
+![ANN4](https://user-images.githubusercontent.com/34100245/82071183-5f669880-96f3-11ea-9a34-75e055c29d18.PNG)
+
+The last few epochs look like the following:
+
+![ANN5](https://user-images.githubusercontent.com/34100245/82071316-92a92780-96f3-11ea-9902-ce78a9603a00.PNG)
+
+Now that the model has been succesfully trained, we can print out its **Accuracy Matrix**
+
+![ANN6](https://user-images.githubusercontent.com/34100245/82071605-f895af00-96f3-11ea-8de7-4e368de54775.PNG)
+
+From here, now for the Analysis part one is free to visualise the data and the cooreleation between the various customer 
+attributes vs churn possibility.
+Out of the above list of graph codes one can copy paste the code from the respective files into the main **Ann.py** file and get the respective graphs.
+
+If the 
+
+
+
 
 
 If you like the work and my methodology please do leave a review and a star.
