@@ -74,6 +74,12 @@ Visualising our **Box Plot** by adding the **Box_Plot.py** file to the main file
 ![ANN18](https://user-images.githubusercontent.com/34100245/82077127-870e2e80-96fc-11ea-82a8-6e5b0dd0c2a0.PNG)
 
 
+---
+
+If you do find this repository, why not give a star and even let me know about it!
+
+Feel free to express issues and feedback as well, cheers!
+
 
 
 
